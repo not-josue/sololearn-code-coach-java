@@ -35,6 +35,7 @@ NOTE: scannerObj.nextLine() fix-ups after scannerObj.nextInt(), etc. cause error
 
 ## Medium
 
+- [Carrot Cake](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/CarrotCake)
 - [Deja Vu](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/DejaVu)
 - [Duty Free](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/DutyFree)
 - [Hex Color Code Generator](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/HexColorCodeGenerator)
