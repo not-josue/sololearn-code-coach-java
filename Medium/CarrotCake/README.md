@@ -8,7 +8,7 @@ You are packing boxes of carrots for a farm co-op, and you are supposed to evenl
 
 ## Task
 
-Determin if you will have enough leftover carrots to make your cake.
+Determine if you will have enough leftover carrots to make your cake.
 
 ## Input Format
 
