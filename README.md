@@ -47,4 +47,5 @@ NOTE: scannerObj.nextLine() fix-ups after scannerObj.nextInt(), etc. cause error
 - [Snap, Crackle and Pop](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/SnapCrackleAndPop)
 - [Super Sale](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/SuperSale)
 - [Symbols](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/Symbols)
+- [Thats odd...](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/ThatsOdd)
 - [The Spy Life](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/TheSpyLife)
