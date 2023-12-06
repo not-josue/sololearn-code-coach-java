@@ -46,6 +46,7 @@ NOTE: scannerObj.nextLine() fix-ups after scannerObj.nextInt(), etc. may cause e
 - [Pig Latin](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/PigLatin)
 - [Roadrunner](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/Roadrunner)
 - [Safety Deposit Boxes](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/SafetyDepositBoxes)
+- [Secret Message](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/SecretMessage)
 - [Snap, Crackle and Pop](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/SnapCrackleAndPop)
 - [Super Sale](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/SuperSale)
 - [Symbols](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/Symbols)
