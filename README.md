@@ -42,6 +42,7 @@ NOTE: scannerObj.nextLine() fix-ups after scannerObj.nextInt(), etc. may cause e
 - [Duty Free](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/DutyFree)
 - [Even Numbers](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/EvenNumbers)
 - [Hex Color Code Generator](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/HexColorCodeGenerator)
+- [Military Time](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/MilitaryTime)
 - [Name Buddy](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/NameBuddy)
 - [No Numerals](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/NoNumerals)
 - [Pig Latin](https://github.com/not-josue/sololearn-code-coach-java/tree/main/Medium/PigLatin)
