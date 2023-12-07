@@ -16,7 +16,7 @@ A string that includes the time, then a space and the indicator for AM or PM.
 
 ## Output Format
 
-A string that includes the time in a24 hour format (XX:XX)
+A string that includes the time in a 24 hour format (XX:XX)
 
 ## Sample Input
 
